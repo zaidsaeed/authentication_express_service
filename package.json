@@ -1,0 +1,11 @@
+{
+  "name": "authentication_express_service",
+  "version": "1.0.0",
+  "description": "This repo holds code for basic auth logic for any CRUD service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
